@@ -1,1 +1,4 @@
-# tkinter REALIZAR LOS EJERCICIOS DEL 1 AL 10 Y EXPLICAR LO QUE REALIZA CADA UNO.
+# tkinter Taller
+
+Ejercicio1:
+El programa interpreta un texto "Hello Tkinter", pero siempre y cuando al importar la libreria "tkinter" este en minusculas si no nos va a producir un error.
